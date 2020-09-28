@@ -5,7 +5,6 @@ This game is a copy of one of the most popular windows games.
 
 
 ## Why this?
----
 
 My first purpose was to improve **JavaScript** coding skills and learn object oriented programing. Games are very good material to do this. 
 In this project I use classes, inheritance and modules.
